@@ -1,4 +1,5 @@
 ASSEMBLER PROJECT DOCUMENTATION
+
 We have defined our input file format in the following manner-
 [LABEL(max len=5)] (2 spaces) [OPCODE(max len=3)] (2 spaces) [OPERAND(max len=5)]
 // → Notifies the start of comment
