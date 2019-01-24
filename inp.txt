@@ -1,0 +1,13 @@
+
+       LAC  I    
+       ADD  J    
+       SAC  INTER
+       LAC  K    
+       ADD  L     
+       MUL  INTER
+       STP       
+I      DC   4    
+J      DC   5     
+K      DC   5     
+L      DC   4      
+INTER  DC   0     
