@@ -4,8 +4,10 @@ We have defined our input file format in the following manner-
 [LABEL(max len=5)] (2 spaces) [OPCODE(max len=3)] (2 spaces) [OPERAND(max len=5)]
 // → Notifies the start of comment
 
-We have made 3 java files (Table_P1.java, File_input.java and
-pass2.java ).
+We have made 3 java files
+1. Table_P1.java, 
+2. File_input.java
+3. pass2.java.
 In first file (Table_P1.java ) we have defined an opcode table,
 symbol table and literal table ( in the form of classes ) .
 In symbol table we have defined the following attributes-
